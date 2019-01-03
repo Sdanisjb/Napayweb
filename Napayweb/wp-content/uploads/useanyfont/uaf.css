@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'geomtr415-blk-bt';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/181118034759Geomtr415-Blk-BT.eot');
+				src: local('geomtr415-blk-bt'), url('/wp-content/uploads/useanyfont/181118034759Geomtr415-Blk-BT.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/181118034759Geomtr415-Blk-BT.woff') format('woff');
+			}
+            
+            .geomtr415-blk-bt{font-family: 'geomtr415-blk-bt' !important;}
+            
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'geomtr415-blk-bt' !important;
+				}
+		
