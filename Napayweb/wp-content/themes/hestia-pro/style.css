@@ -3604,6 +3604,7 @@ table > tbody > tr:last-child,
 .hestia-slider-alignment-right .widget_media_image img {
   display: block;
   margin-right: auto;
+  margin-left: auto;
 }
 
 @media (max-width: 1600px) {
@@ -7911,4 +7912,17 @@ div.wpforms-container .wpforms-form select:focus {
   }
 }
 
+.elementor-117,
+.elementor-55 {
+  padding-top: 70px;
+}
+
+
+.text-muted {
+  color: #fda553;
+}
+
+.napay-divider-separator {
+  border-bottom: 1px solid #3C4858;
+}
 /*# sourceMappingURL=style.css.map */
